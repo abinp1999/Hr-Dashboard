@@ -4,11 +4,11 @@ This project is an interactive HR Analytics dashboard built using Power BI to an
 
 The objective of this project is to transform raw HR data into meaningful insights and create a professional dashboard for decision-making.
 
-Dataset Source:
+1)Dataset Source:
 
 The dataset used in this project is a sample dataset taken from a YouTube tutorial for learning and practice purposes.
 
-Key Insights:
+2)Key Insights:
 
 Workforce distribution by age and gender
 
@@ -22,7 +22,7 @@ Leave balance analysis
 
 Experience distribution across employees
 
-Tools & Technologies:
+3)Tools & Technologies:
 
 Power BI
 
@@ -32,7 +32,7 @@ DAX
 
 Data Visualization
 
-Features:
+4)Features:
 
 Interactive dashboard
 
@@ -43,7 +43,7 @@ Trend analysis visuals
 Role-based and experience-based insights
 
 
- Learning Outcome
+ 5)Learning Outcome
 
 Through this project, I improved my skills in:
 
@@ -55,9 +55,10 @@ Building KPI dashboards
 
 Storytelling with data
 
-👤 Author
+Author
 
 Abin
+
 Aspiring Data Analyst | Power BI | SQL | Excel
 
 
